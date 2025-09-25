@@ -16,7 +16,7 @@ Written in ES6 using Babel + Webpack.
 - [x] View single thought
 
 ## ▶️ Running
-- Clone repo `git clone git@github.com:atulmy/fullstack-graphql.git fullstack-graphql`
+- Clone repo `git clone git@github.com:denys772/fullstack-graphql.git fullstack-graphql`
 - Install NPM modules API `cd api` and `npm install`
 - Install NPM modules Webapp `cd web` and `npm install`
 - Modify `/api/src/config/database.json` for database credentials
